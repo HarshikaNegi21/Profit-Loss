@@ -25,7 +25,7 @@ This repository delivers high-impact business intelligence solutions designed fo
 ### Objectives
 
 - Create a [Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).  
-- Conduct a comparative analysis between market performance and sales targets in the [Market vs. Targets Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf).  
+- Conduct a comparative analysis between market performance and sales targets in the [Market vs. Targets Report](https://github.com/HarshikaNegi21/Profit-Loss/blob/HarshikaNegi21-patch-1/MarketPerformanceVsTarget.pdf).  
 
 ### Purpose
 
