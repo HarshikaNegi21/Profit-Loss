@@ -47,8 +47,8 @@ Identify sales patterns and track key performance indicators (KPIs) to inform st
 
 ### Objectives
 
-- Generate Profit & Loss (P&L) statements by [Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and by [Month](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf).  
-- Produce P&L statements segmented by [Market](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf).  
+- Generate Profit & Loss (P&L) statements by [Fiscal Year](https://github.com/HarshikaNegi21/Profit-Loss/blob/HarshikaNegi21-patch-1/P%26LReportbyFiscalYear.pdf) and by [Month](https://github.com/HarshikaNegi21/Profit-Loss/blob/HarshikaNegi21-patch-1/P%26LReportbyMonth.pdf).  
+- Produce P&L statements segmented by [Market](https://github.com/HarshikaNegi21/Profit-Loss/blob/HarshikaNegi21-patch-1/P%26LReportbyMarket.pdf).  
 
 ### Purpose
 
